@@ -2,6 +2,7 @@
 Repositório referente a matéria de Computabilidade e Complexidade de Algoritmos do curso de Ciência da Computação
 
 >> Computabilidade:
+
 O termo “computável” foi proposto por Alan Turing para designar a totalidade
 de números reais cuja expansão decimal pode ser calculada em tempo finito,
 através de recursos finitos. No mesmo artigo, Turing argumenta que este conjunto
@@ -26,15 +27,19 @@ computáveis”. Por outro lado seria também necessária a prova matemática de
 computáveis”. Estaria então provado que a máquina não computaria nada além do
 que “números computáveis”. (artigo de 1936).
 Ref.: http://www.ic.uff.br/isabel/pdf/Computabilidade,%20Hist%C3%B3ria%20e%20Matem%C3%A1tica.pdf
+
 >> Objetivos:
-➢ Investigar a possibilidade de existir ou não algoritmos que solucionem
-determinada classe de problemas.
-➢ Verificar os limites da computação e, também, o que pode realmente ser
-implementado e solucionado por meio de um computador.
-➢ O objetivo está centrado na possibilidade de construção desses algoritmos.
-?? Questão:
->> O computador pode resolver quais problemas ?
-▪ Como verificar essa questão ?
+
+    ➢ Investigar a possibilidade de existir ou não algoritmos que solucionem
+        determinada classe de problemas.
+    ➢ Verificar os limites da computação e, também, o que pode realmente ser
+        implementado e solucionado por meio de um computador.
+    ➢ O objetivo está centrado na possibilidade de construção desses algoritmos.
+?
+? Questão:
+    >> O computador pode resolver quais problemas ?
+        ▪ Como verificar essa questão ?
+
 Entendendo “computabilidade” como conceituação de tudo que pode ser
 realizado por computador a discussão a respeito deste tema é fundamental
 aos estudantes de Ciência da Computação. A Computabilidade vem mostrar
